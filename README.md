@@ -9,6 +9,12 @@
 
 3)Remove extra space from the text.
 
+4)Upper-Case convertion
+
+5)Lower-Case conversion
+
+6)Time to read the text.
+
 4)Text preview also available.
 
 
